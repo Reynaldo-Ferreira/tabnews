@@ -3,4 +3,4 @@ function home(){
     
 }
 
-export default home;git 
+export default home;
